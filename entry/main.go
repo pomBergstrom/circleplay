@@ -1,6 +1,6 @@
 package main
 
-import "circletest/mittpaket"
+import "circleplay/mittpaket"
 
 func main() {
 	//return "Hej hopp"
