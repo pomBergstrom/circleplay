@@ -1,6 +1,6 @@
 package main
 
-import "circleplay/mittpaket"
+import "e.com/mb/circleplay/mittpaket"
 
 func main() {
 	//return "Hej hopp"
