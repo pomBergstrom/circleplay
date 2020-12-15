@@ -1,4 +1,4 @@
-module e.com/mb/circleplay
+module github.com/pomBergstrom/circleplay
 
 go 1.15
 

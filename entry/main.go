@@ -1,6 +1,6 @@
 package main
 
-import "e.com/mb/circleplay/mittpaket"
+import "github.com/pomBergstrom/circleplay/mittpaket"
 
 func main() {
 	//return "Hej hopp"
